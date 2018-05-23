@@ -1,0 +1,38 @@
+[URI of the OWL(RDF/XML) output file]
+http://purl.obolibrary.org/obo/vo/vio/VO_import.owl
+
+[Source ontology]
+VO
+
+[Low level source term URIs]
+http://purl.obolibrary.org/obo/VO_0001188 # vaccine strain datum
+http://purl.obolibrary.org/obo/VO_0001189 # vaccine viability datum
+http://purl.obolibrary.org/obo/VO_0001190 # vaccine adjuvant usage datum
+http://purl.obolibrary.org/obo/VO_0001191 # vaccine protective antigen datum
+http://purl.obolibrary.org/obo/VO_0001192 # mutated gene in vaccine strain datum
+http://purl.obolibrary.org/obo/VO_0001193 # vaccination mouse strain datum
+http://purl.obolibrary.org/obo/VO_0001194 # biological sex datum
+http://purl.obolibrary.org/obo/VO_0001195 # vaccination route datum
+http://purl.obolibrary.org/obo/VO_0001196 # vaccination dose (unit: CFU)
+http://purl.obolibrary.org/obo/VO_0001197 # animal age at vaccination in days
+http://purl.obolibrary.org/obo/VO_0001198 # pathogen strain for challenge datum
+http://purl.obolibrary.org/obo/VO_0001199 # pathogen challenge datum
+http://purl.obolibrary.org/obo/VO_0001202 # challenge dose (unit: CFU)
+http://purl.obolibrary.org/obo/VO_0001203 # vaccination-challenge interval in days
+http://purl.obolibrary.org/obo/VO_0001204 # CFU per spleen
+http://purl.obolibrary.org/obo/VO_0001205 # CFU reduction per spleen
+http://purl.obolibrary.org/obo/VO_0001206 # vaccine protection efficacy datum
+http://purl.obolibrary.org/obo/VO_0000129 # Vaccination frequency
+http://purl.obolibrary.org/obo/VO_0000001 # Vaccine
+http://purl.obolibrary.org/obo/VO_0000814 # Vaccination dose
+
+[Top level source term URIs and target direct superclass URIs]
+http://purl.obolibrary.org/obo/BFO_0000001 #entity
+
+[Source term retrieval setting]
+includeAllIntermediates
+
+[Source annotation URIs]
+includeAllAxiomsRecursively
+
+[Source annotation URIs to be excluded]
